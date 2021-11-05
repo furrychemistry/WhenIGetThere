@@ -159,9 +159,9 @@ namespace WhenIGetThere
 			this.label3.Font = new System.Drawing.Font("Times New Roman", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
 			this.label3.Location = new System.Drawing.Point(3, 3);
 			this.label3.Name = "label3";
-			this.label3.Size = new System.Drawing.Size(51, 17);
+			this.label3.Size = new System.Drawing.Size(137, 17);
 			this.label3.TabIndex = 0;
-			this.label3.Text = "Break:";
+			this.label3.Text = "Break and refueling:";
 			// 
 			// durSleepTime
 			// 
@@ -185,8 +185,8 @@ namespace WhenIGetThere
 			this.durBreakTime.MinimumSize = new System.Drawing.Size(200, 36);
 			this.durBreakTime.Name = "durBreakTime";
 			this.durBreakTime.SelectedHour = 0;
-			this.durBreakTime.SelectedMinute = 30;
-			this.durBreakTime.SelectedTime = System.TimeSpan.Parse("00:30:00");
+			this.durBreakTime.SelectedMinute = 50;
+			this.durBreakTime.SelectedTime = System.TimeSpan.Parse("00:50:00");
 			this.durBreakTime.Size = new System.Drawing.Size(200, 36);
 			this.durBreakTime.TabIndex = 1;
 			this.durBreakTime.Use24HourFormat = true;
