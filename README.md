@@ -1,5 +1,6 @@
 # When I Get There
-Created for my mom driving semi.
+*Prototype project*
+Created for my mom driving semi, to predict rest times.
 
 WinForms, .net 5
 
